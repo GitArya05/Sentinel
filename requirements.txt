@@ -1,5 +1,14 @@
-streamlit
+# Backend Dependencies
+fastapi
+uvicorn
+pydantic
+scikit-learn==1.6.1
 pandas
+joblib
+faker
+
+# Frontend Dependencies
+streamlit
 pydeck
 plotly
 requests
