@@ -1,0 +1,11 @@
+# Environments
+venv/
+__pycache__/
+*.pyc
+
+# Data and Models (We will track models via Git LFS later if needed)
+data/
+models/*.pkl
+
+# Environment variables
+.env
